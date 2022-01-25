@@ -1,0 +1,8 @@
+                                                                         
+1.I created the movie library that contain the movie-name,rating,genre,comment
+
+2.This is tested using the karma tool
+
+3.In this project, 14 specifications have tested skipped one specfication as per your reference and other all 13 specifications are passed
+
+4.Before executing the karma start Have to install the required modules.
